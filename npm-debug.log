@@ -1,0 +1,16 @@
+2661 error Error: read ECONNRESET
+2661 error     at errnoException (net.js:878:11)
+2661 error     at TCP.onread (net.js:539:19)
+2662 error If you need help, you may report this log at:
+2662 error     <http://github.com/isaacs/npm/issues>
+2662 error or email it to:
+2662 error     <npm-@googlegroups.com>
+2663 error System Windows_NT 5.1.2600
+2664 error command "c:\\Program Files\\nodejs\\node.exe" "c:\\Program Files\\nodejs\\node_modules\\npm\\bin\\npm-cli.js" "install" "socket.io" "-g"
+2665 error cwd e:\clouds\dropbox\works\seedit\ui\color
+2666 error node -v v0.10.1
+2667 error npm -v 1.2.15
+2668 error syscall read
+2669 error code ECONNRESET
+2670 error errno ECONNRESET
+2671 verbose exit [ 1, true ]
